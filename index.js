@@ -8,3 +8,7 @@ function div(a, b) {
 function donothing(){
     ewngndks.
 }
+
+function hello() {
+    return "hello";
+}
