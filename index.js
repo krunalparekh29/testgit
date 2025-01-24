@@ -2,7 +2,7 @@ function mul(a, c) {
   return a * b;
 }
 
-function div(a, b) {
+function d(a, b) {
   return a / b;
 }
 function donothing(){
