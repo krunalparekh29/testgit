@@ -1,3 +1,3 @@
-function mul(a, b) {
+function mul(a, c) {
   return a * b;
 }
