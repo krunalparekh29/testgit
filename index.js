@@ -5,3 +5,6 @@ function mul(a, c) {
 function div(a,b){
     return a/b;
 }
+function donothing(){
+    ewngndks.
+}
