@@ -11,3 +11,6 @@ function hello() {
     return "hello";
 }
 
+function sub(a,b){
+  return a-b;
+}
