@@ -5,9 +5,6 @@ function mul(a, c) {
 function d(a, b) {
   return a / b;
 }
-function donothing(){
-    ewngndks.
-}
 
 function hello() {
     return "hello";
